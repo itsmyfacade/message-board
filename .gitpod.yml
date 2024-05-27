@@ -12,3 +12,25 @@ tasks:
 vscode:
   extensions:
     - https://github.com/freeCodeCamp/freecodecamp-dark-vscode-theme/releases/download/v1.0.0/freecodecamp-dark-vscode-theme-1.0.0.vsix
+
+
+>vscode
+--settings.json
+>public
+--style.css
+> routes
+  --api.js
+  --fcctesting.js
+>tests
+  --functional-test.js
+> views
+  --board.html
+  --index.html
+  --thread.html
+
+--package.json
+--package-lock.json
+--models.js
+--db-connection.js
+serv.js
+.env
